@@ -1,0 +1,15 @@
+/Users/mengxuan/Projects/test/cookie/bin/Debug/net7.0/cookie
+/Users/mengxuan/Projects/test/cookie/bin/Debug/net7.0/cookie.deps.json
+/Users/mengxuan/Projects/test/cookie/bin/Debug/net7.0/cookie.runtimeconfig.json
+/Users/mengxuan/Projects/test/cookie/bin/Debug/net7.0/cookie.dll
+/Users/mengxuan/Projects/test/cookie/bin/Debug/net7.0/cookie.pdb
+/Users/mengxuan/Projects/test/cookie/obj/Debug/net7.0/cookie.csproj.AssemblyReference.cache
+/Users/mengxuan/Projects/test/cookie/obj/Debug/net7.0/cookie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Projects/test/cookie/obj/Debug/net7.0/cookie.AssemblyInfoInputs.cache
+/Users/mengxuan/Projects/test/cookie/obj/Debug/net7.0/cookie.AssemblyInfo.cs
+/Users/mengxuan/Projects/test/cookie/obj/Debug/net7.0/cookie.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Projects/test/cookie/obj/Debug/net7.0/cookie.dll
+/Users/mengxuan/Projects/test/cookie/obj/Debug/net7.0/refint/cookie.dll
+/Users/mengxuan/Projects/test/cookie/obj/Debug/net7.0/cookie.pdb
+/Users/mengxuan/Projects/test/cookie/obj/Debug/net7.0/cookie.genruntimeconfig.cache
+/Users/mengxuan/Projects/test/cookie/obj/Debug/net7.0/ref/cookie.dll

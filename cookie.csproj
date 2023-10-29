@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Recipes\" />
+    <None Remove="Recipes\Ingredients\" />
+    <None Remove="Data Access\" />
+    <None Remove="File Access\" />
+    <None Remove="App\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Recipes\" />
+    <Folder Include="Recipes\Ingredients\" />
+    <Folder Include="Data Access\" />
+    <Folder Include="File Access\" />
+    <Folder Include="App\" />
+  </ItemGroup>
+</Project>
